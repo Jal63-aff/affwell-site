@@ -1,0 +1,1 @@
+export default function Blog(){return (<><h1 className='font-serif text-2xl'>affwell Blog</h1><p className='text-gray-600 mt-2'>Coming soon.</p></>)}

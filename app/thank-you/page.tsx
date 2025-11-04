@@ -1,0 +1,1 @@
+export default function TY(){return (<div className='card'><h1 className='font-serif text-2xl'>Thank you!</h1><p className='text-gray-600'>Thanks for subscribing.</p></div>)}
